@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/634514533709201014/62dc141e3e28453dbf3daf1a6376d723/artifacts
+end_time: 1739871660632
+entry_point_name: ''
+experiment_id: '634514533709201014'
+lifecycle_stage: active
+run_id: 62dc141e3e28453dbf3daf1a6376d723
+run_name: sassy-steed-493
+run_uuid: 62dc141e3e28453dbf3daf1a6376d723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739871657627
+status: 4
+tags: []
+user_id: codespace

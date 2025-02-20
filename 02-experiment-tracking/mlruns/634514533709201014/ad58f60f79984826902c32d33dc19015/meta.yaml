@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/634514533709201014/ad58f60f79984826902c32d33dc19015/artifacts
+end_time: 1739871670832
+entry_point_name: ''
+experiment_id: '634514533709201014'
+lifecycle_stage: active
+run_id: ad58f60f79984826902c32d33dc19015
+run_name: grandiose-trout-438
+run_uuid: ad58f60f79984826902c32d33dc19015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739871667834
+status: 3
+tags: []
+user_id: codespace
